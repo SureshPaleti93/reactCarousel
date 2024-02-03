@@ -1,0 +1,11 @@
+.carousel-container {
+  background-image: url('https://assets.ccbp.in/frontend/react-js/planets-app/planets-bg-img.png');
+  background-size: cover;
+  align-self: center;
+}
+.main-heading {
+  font-family: 'Roboto';
+  font-size: 36px;
+  color: #05acff;
+  text-align: center;
+}
